@@ -8,3 +8,11 @@ coqui-tts
 matplotlib
 seaborn
 plotly
+agno
+duckduckgo-search
+fastapi
+uvicorn
+groq
+yfinance
+pypdf
+python-dotenv
