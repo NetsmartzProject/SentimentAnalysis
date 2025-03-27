@@ -16,3 +16,4 @@ groq
 yfinance
 pypdf
 python-dotenv
+selenium
