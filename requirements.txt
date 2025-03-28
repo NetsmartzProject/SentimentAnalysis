@@ -16,4 +16,7 @@ groq
 yfinance
 pypdf
 python-dotenv
-selenium
+gtts
+sentencepiece
+googletrans
+deep_translator
